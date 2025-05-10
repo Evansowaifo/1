@@ -33,4 +33,3 @@ def simi(d_pdf, d_path):
             result[x] = cosine
     return result
 
-simi('pdf/Business_Proposal.pdf', 'pdf/')
